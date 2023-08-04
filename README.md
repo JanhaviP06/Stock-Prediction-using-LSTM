@@ -9,6 +9,6 @@ Dataset link : https://www.kaggle.com/datasets/rpaguirre/tesla-stock-price
 
 # Usage
 * Run the Jupyter notebook: jupyter notebook
-* Open the Tesla Stock Prediction.ipynb notebook.
+* Open the Task 1: Stock Prediction.ipynb notebook.
 * Follow the instructions and execute the code cells to preprocess the data, build the LSTM model, and make predictions.
 * The notebook includes sections for data visualization, model training, and prediction evaluation.
